@@ -236,6 +236,7 @@
             "keywords": [
                 "microframework"
             ],
+            "abandoned": "symfony/flex",
             "time": "2018-04-20T05:17:01+00:00"
         },
         {
